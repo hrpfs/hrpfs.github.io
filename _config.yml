@@ -1,5 +1,5 @@
-title: Lee Jaehyuk
-description: Lee Jaehyuk's portfolio
+title: 이재혁
+description: 이재혁
 
 url: http://hrpfs.github.io
 baseurl: ""
@@ -20,7 +20,6 @@ navigation:
     url: /contact
 
 social:
-  github: hrpfs
   email: hrpfsn@gmail.com
 
 google_analytics: "UA-58263416-1"
