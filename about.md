@@ -5,7 +5,7 @@ title: About
 
 # About 이재혁
 ![ex_screenshot](./assets/img/ljh.jpeg)
-- 보안경영공학과 석사 졸
+- 보안경영공학과 석사
 - 네트워크보안 연구실
 - 트라콤 재직중
 
